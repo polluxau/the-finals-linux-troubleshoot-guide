@@ -5,26 +5,26 @@
 
 **NVIDIA**
 
-If your on nvidia please use the nvidia driver that is provided by your distro
+If your on Nvidia please use the Nvidia driver that is provided by your Distro
 
-If your on a wayland desktop like kde plasma or gnome, please use the latest nvidia driver like 555 or 560 or newer
+If your on a Wayland Desktop like KDE Plasma or gnome, please use the latest nvidia driver like 555 or 560 or newer
 
 **AMD**
 
-On amd you have the amdgpu driver in the linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
+On AMD you have the AMDGPU driver in the Linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
 
-if you are using a newer distro like fedora, arch, opensuse tumbleweed, bazzite, fedora kinote, fedora silverblue, nixos, fedora workstation or even gentoo make sure you are using 6.10.9 or above
+if you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, Fedora silverblue, Nixos, Fedora workstation or even Gentoo make sure you are using 6.10.9 or above
 
-The reason for kernel 6.10.9 is because of a recent regression that caused the finals to have a decent amount of frame spikes under a amd gpu
+The reason for kernel 6.10.9 is because of a recent regression that caused THE FINALS to have a decent amount of frame spikes under a amd gpu
 https://www.phoronix.com/news/Linux-6.11-rc7-AMDGPU-Fix
 
 **INTEL**
 
-Intel, use the latest kernel and mesa aswell, intel uses the i915 driver right now in the kernel and ANV in mesa, intel is currently reworking their driver in the kernel called the Intel-XE driver and are improving ANV in mesa for gaming, i dont own a intel gpu so its hard for me to test if the finals works properly or not
+Intel, use the latest kernel and MESA aswell,Intel uses the i915 driver right now in the kernel and ANV in mesa, Intel is currently reworking their driver in the kernel called the Intel-XE driver and are improving ANV in mesa for gaming, i dont own a intel gpu so its hard for me to test if the finals works properly or not
 
 **PROTON**
 
-Please use proton experimental, experimental has all of the latest patches from valve for THE FINALS, you do not need bleeding edge unless the game breaks after a update which please look at the bottom of the page for enabling bleeding edge if this happens
+Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS, you do not need bleeding edge unless the game breaks after a update which please look at the bottom of the page for enabling bleeding edge if this happens
 
 **YOU CAN ALSO USE PROTON-GE BUT IT ISN'T REQUIRED**
 
