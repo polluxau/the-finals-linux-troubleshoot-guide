@@ -14,7 +14,7 @@ If your on a wayland desktop like kde plasma or gnome, please use the latest nvi
 
 On amd you have the amdgpu driver in the linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
 
-if you are using a newer distro like fedora, arch, opensuse tumbleweed, bazite, fedora kinote, fedora silverblue, nixos, gentoo make sure you are using 6.10.9 or above
+if you are using a newer distro like fedora, arch, opensuse tumbleweed, bazzite, fedora kinote, fedora silverblue, nixos, fedora workstation or even gentoo make sure you are using 6.10.9 or above
 
 The reason for kernel 6.10.9 is because of a recent regression that caused the finals to have a decent amount of frame spikes under a amd gpu
 https://www.phoronix.com/news/Linux-6.11-rc7-AMDGPU-Fix
