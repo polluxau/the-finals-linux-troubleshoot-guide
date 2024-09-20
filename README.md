@@ -27,6 +27,8 @@ https://launchpad.net/~kisak/+archive/ubuntu/kisak-mesa
 
 `sudo apt update`
 
+`reboot`
+
 **INTEL**
 
 Intel, use the latest kernel and mesa aswell, intel uses the i915 driver right now in the kernel and ANV in mesa, intel is currently reworking their driver in the kernel called the Intel-XE driver and are improving ANV in mesa for gaming, i dont own a intel gpu so its hard for me to test if the finals works properly or not
