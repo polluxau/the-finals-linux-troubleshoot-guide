@@ -14,20 +14,10 @@ If your on a wayland desktop like kde plasma or gnome, please use the latest nvi
 
 On amd you have the amdgpu driver in the linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
 
+if you are using a newer distro like fedora, arch, opensuse tumbleweed, bazite, fedora kinote, fedora silverblue, nixos, gentoo make sure you are using 6.10.9 or above
+
 The reason for kernel 6.10.9 is because of a recent regression that caused the finals to have a decent amount of frame spikes under a amd gpu
 https://www.phoronix.com/news/Linux-6.11-rc7-AMDGPU-Fix
-
-**IF YOU ARE ON A LTS DISTRO LIKE LINUX-MINT, UBUNTU LTS, ZORIN, PLEASE INSTALL A NEWER MESA**
-
-https://launchpad.net/~kisak/+archive/ubuntu/kisak-mesa
-
-**STEPS FOR INSTALLING KISAK MESA**
-
-`sudo add-apt-repository ppa:kisak/kisak-mesa`
-
-`sudo apt update`
-
-`reboot`
 
 **INTEL**
 
@@ -35,21 +25,7 @@ Intel, use the latest kernel and mesa aswell, intel uses the i915 driver right n
 
 **PROTON**
 
-Please use proton experimental, experimental has all of the latest patches from valve for THE FINALS, you do not need bleeding edge unless the game breaks after a update
-
-**HOW TO USE EXPERIMENTAL(BLEEDING EDGE) IF THE GAME BREAKS AFTER A UPDATE**
-
-**WARNING THIS CAN OVERTIME DESTROY YOUR WINE PREFIX SO PLEASE USE WITH CAUTION**
-
-Find experimental in your steam library
-
-![image](https://github.com/user-attachments/assets/69d9cbdf-9655-4849-bf17-02d88c17214a)
-
-Proprieties on experimental and go to beta, select bleeding edge, latest untested dxvk and vkd3d, update and force compatibility on the finals to use experimental(bleeding edge)
-
-![image](https://github.com/user-attachments/assets/e4ce2cf9-e286-4f3a-aa06-6438fd0a966e)
-
-![image](https://github.com/user-attachments/assets/80c1f38b-c055-49ec-9761-86761972a1b7)
+Please use proton experimental, experimental has all of the latest patches from valve for THE FINALS, you do not need bleeding edge unless the game breaks after a update which please look at the bottom of the page for enabling bleeding edge if this happens
 
 **YOU CAN ALSO USE PROTON-GE BUT IT ISN'T REQUIRED**
 
@@ -108,6 +84,21 @@ Please go to the proton github THE FINALS issue page and report your problem
 You can also do `PROTON_LOG=1 %command%` as your launch command for the finals to get a log of the game which you can then upload to your github comment explaining the problem you are having
 
 https://github.com/ValveSoftware/Proton/issues/7317
+
+
+**HOW TO USE EXPERIMENTAL(BLEEDING EDGE) IF THE GAME BREAKS AFTER A UPDATE**
+
+**WARNING THIS CAN OVERTIME DESTROY YOUR WINE PREFIX SO PLEASE USE WITH CAUTION**
+
+Find experimental in your steam library
+
+![image](https://github.com/user-attachments/assets/69d9cbdf-9655-4849-bf17-02d88c17214a)
+
+Proprieties on experimental and go to beta, select bleeding edge, latest untested dxvk and vkd3d, update and force compatibility on the finals to use experimental(bleeding edge)
+
+![image](https://github.com/user-attachments/assets/e4ce2cf9-e286-4f3a-aa06-6438fd0a966e)
+
+![image](https://github.com/user-attachments/assets/80c1f38b-c055-49ec-9761-86761972a1b7)
 
 
 
