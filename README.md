@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/3487ffc1-5f38-4880-9254-3b79c67f2dd9) ![image](https://github.com/user-attachments/assets/8a177197-61d1-4797-9cb9-30592315ebb8)
+![image](https://github.com/user-attachments/assets/3487ffc1-5f38-4880-9254-3b79c67f2dd9) ![image](https://github.com/user-attachments/assets/8a177197-61d1-4797-9cb9-30592315ebb8) ![linux logo](https://github.com/user-attachments/assets/a58c8dc5-117b-4d04-998e-9f21407062d9)
+
 
 **NVIDIA**
 
