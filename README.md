@@ -1,4 +1,4 @@
-![the-finals-730379449](https://github.com/user-attachments/assets/eac78f2b-95a7-4650-a1a1-a48cb199b57d)
+![image](https://github.com/user-attachments/assets/fd82225b-33fb-4dda-83a5-9f062cd51ae2)
 ![tux small](https://github.com/user-attachments/assets/5cec50e6-407c-4e91-b828-ba6c30355dcd)
 
 
