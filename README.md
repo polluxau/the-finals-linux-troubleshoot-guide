@@ -38,8 +38,6 @@ https://flathub.org/apps/com.vysp3r.ProtonPlus
 
 https://flathub.org/apps/net.davidotek.pupgui2
 
-If the game for some reason stops working please clear your wine prefix, your wine prefix is the fake windows directory that proton uses, so when you clear it, the components it uses will be removed requiring the game to redo the setup instructions/recreate that wine prefix so its a clean prefix to use
-
 **IF YOUR GAME CRASHES AFTER A HOUR OR SO**
 
 This usually indicates that your vm.max map_count is too low on the linux distro you are running, what is vm max map count?
@@ -65,6 +63,10 @@ vm.max_map_count=2147483642
 Ctrl-x, y, enter to save the file
 
 Reboot your system
+
+**IF YOUR GAME STOPS WORKING**
+
+If the game for some reason stops working please clear your wine prefix, your wine prefix is the fake windows directory that proton uses, so when you clear it, the components it uses will be removed requiring the game to redo the setup instructions/recreate that wine prefix so its a clean prefix to use
 
 **THIS MAY RESET YOUR IN-GAME SETTINGS SO PLEASE REMEMBER WHAT YOU HAD BEFOREHAND!**
 
