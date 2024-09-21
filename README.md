@@ -23,16 +23,16 @@ The reason for kernel 6.10.9 is because of a recent regression that caused THE F
 https://www.phoronix.com/news/Linux-6.11-rc7-AMDGPU-Fix
 
 -----------------------------------
+![image](https://github.com/user-attachments/assets/7401c332-fd00-416b-9428-b11cf9b0738c)
 
-![intel-1024x678-3753024988](https://github.com/user-attachments/assets/ff1f78a9-c372-4455-88b8-fbab53b25cbb)
 
 Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right now in the kernel and ANV in mesa, Intel is currently reworking their driver in the kernel called the Intel-XE driver and are improving ANV in mesa for gaming, i dont own a intel gpu so its hard for me to test if the finals works properly or not
 
 -----------------------------------
 
-**PROTON**
 ![Screenshot_20240921-134022_Firefox](https://github.com/user-attachments/assets/f74bed9c-b5a6-4a23-bf3a-0e39920b19cd)
 
+**PROTON**
 
 Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS, you do not need bleeding edge unless the game breaks after a update which please look at the bottom of the page for enabling bleeding edge if this happens
 
