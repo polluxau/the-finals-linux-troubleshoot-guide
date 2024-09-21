@@ -36,7 +36,7 @@ Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right n
 
 **PROTON**
 
-Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS, you do not need bleeding edge unless the game breaks after a update which please look at the bottom of the page for enabling bleeding edge if this happens
+Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS NOT bleeding edge
 
 --------------------------------------
 
