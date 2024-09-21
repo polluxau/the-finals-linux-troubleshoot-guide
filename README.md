@@ -99,6 +99,10 @@ Proprieties on experimental and go to beta, select bleeding edge, latest unteste
 
 ![image](https://github.com/user-attachments/assets/80c1f38b-c055-49ec-9761-86761972a1b7)
 
+If it works have fun in the arena! 
+
+Nama Tama Love's you 
+
 
 
 
