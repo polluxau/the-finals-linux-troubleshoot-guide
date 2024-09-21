@@ -30,12 +30,16 @@ Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right n
 
 -----------------------------------
 
-![Screenshot_20240921-134022_Firefox-transformed](https://github.com/user-attachments/assets/55c8f396-0479-4c91-ae27-55c621aff4e4)
+![823e834b-5a40-4204-bf98-887ce5ab8c0d](https://github.com/user-attachments/assets/6d81401c-a979-439e-a5bf-430b13875f9b)
+
 
 
 **PROTON**
 
 Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS, you do not need bleeding edge unless the game breaks after a update which please look at the bottom of the page for enabling bleeding edge if this happens
+
+--------------------------------------
+
 
 **YOU CAN ALSO USE PROTON-GE BUT IT ISN'T REQUIRED**
 
@@ -50,6 +54,8 @@ https://github.com/GloriousEggroll/proton-ge-custom
 https://flathub.org/apps/com.vysp3r.ProtonPlus
 
 https://flathub.org/apps/net.davidotek.pupgui2
+
+--------------------------------------
 
 **IF YOUR GAME CRASHES AFTER A HOUR OR SO**
 
@@ -79,6 +85,8 @@ Ctrl-x, y, enter to save the file
 
 Reboot your system
 
+--------------------------------------
+
 **IF YOUR GAME STOPS WORKING**
 
 If the game for some reason stops working please clear your wine prefix, your wine prefix is the fake windows directory that proton uses, so when you clear it, the components it uses will be removed requiring the game to redo the setup instructions/recreate that wine prefix so its a clean prefix to use
@@ -101,6 +109,8 @@ Delete that prefix and verify the game in steam
 
 Use experimental and should be good to go
 
+---------------------------------------
+
 **EAC PROBLEMS**
 
 If you get any EAC problems please try clearing the prefix first then if you get the same issue use this launch command for the finals
@@ -112,6 +122,8 @@ You can also add other environment variables behind %command% like mangohud or g
 `PROTON_USE_EAC_LINUX=1 mangohud gamemoderun %command%`
 
 ![image](https://github.com/user-attachments/assets/fe7447fb-1840-4889-a2f2-34ededeaebc0)
+
+---------------------------------------
 
 **IF YOU HAVE A MEMORY LEAK**
 
@@ -126,6 +138,8 @@ Please go to the proton github THE FINALS issue page and report your problem
 You can also do `PROTON_LOG=1 %command%` as your launch command for the finals to get a log of the game, this log will be in your home directory, which you can then upload to your github comment explaining the problem you are having
 
 https://github.com/ValveSoftware/Proton/issues/7317
+
+---------------------------------------
 
 
 **IF THE GAME BREAKS FROM A UPDATE PLEASE TRY CLEARING THE PREFIX, IF THAT DOESNT WORK TRY BLEEDING EDGE BUILD OF PROTON**
