@@ -2,13 +2,18 @@
 ![tux small](https://github.com/user-attachments/assets/5cec50e6-407c-4e91-b828-ba6c30355dcd)
 
 
-**NVIDIA**
+
+--------------------------------------
+![nvlogo_white-1538839930](https://github.com/user-attachments/assets/5e0ce5f1-d399-4262-a72f-994a55811854)
+
 
 If your on Nvidia please use the Nvidia driver that is provided by your Distro
 
 If your on a Wayland Desktop like KDE Plasma, Gnome, Cosmic, Lxqt, Budgie please use the latest nvidia driver like 555 or 560 or newer
 
-**AMD**
+--------------------------------------
+![amd-logo-white-png-5773-1024x245-601490339](https://github.com/user-attachments/assets/57cea371-7a50-4b67-9d80-5b9457826bc9)
+
 
 On AMD you have the AMDGPU driver in the Linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
 
@@ -17,11 +22,17 @@ if you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite,
 The reason for kernel 6.10.9 is because of a recent regression that caused THE FINALS to have a decent amount of frame spikes under a amd gpu
 https://www.phoronix.com/news/Linux-6.11-rc7-AMDGPU-Fix
 
-**INTEL**
+-----------------------------------
+
+![intel-1024x678-3753024988](https://github.com/user-attachments/assets/ff1f78a9-c372-4455-88b8-fbab53b25cbb)
 
 Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right now in the kernel and ANV in mesa, Intel is currently reworking their driver in the kernel called the Intel-XE driver and are improving ANV in mesa for gaming, i dont own a intel gpu so its hard for me to test if the finals works properly or not
 
+-----------------------------------
+
 **PROTON**
+![Screenshot_20240921-134022_Firefox](https://github.com/user-attachments/assets/f74bed9c-b5a6-4a23-bf3a-0e39920b19cd)
+
 
 Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS, you do not need bleeding edge unless the game breaks after a update which please look at the bottom of the page for enabling bleeding edge if this happens
 
@@ -30,6 +41,8 @@ Please use Proton experimental, experimental has all of the latest patches from 
 Proton-ge uses experimental(bleeding edge) and gets updated every couple of weeks with its own patches included like video codecs and specific fixes that valve can not do because of licenses or other issues 
 
 https://github.com/GloriousEggroll/proton-ge-custom
+
+-----------------------------------
 
 **YOU CAN USE A APPLICATION LIKE PROTONPLUS OR PROTON-UP-QT TO GET PROTON-GE INSTALLED ON STEAM**
 
@@ -46,6 +59,8 @@ What is a memory mapping?
 A memory mapping is a region of virtual memory that is mapped to a physical memory page or a file
 
 Distros like linux mint 21, ubuntu 22.04, debian 12 will have to low of a value so the game will crash as it tries to create more virtual memory in the game
+
+------------------------------------
 
 **HOW TO INCREASE IT**
 
