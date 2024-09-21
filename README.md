@@ -51,6 +51,7 @@ A memory mapping is a region of virtual memory that is mapped to a physical memo
 Distros like linux mint 21, ubuntu 22.04, debian 12 will have to low of a value so the game will crash as it tries to create more virtual memory in the game
 
 **HOW TO INCREASE IT**
+
 To increase your vm.max_map_count do this 
 
 Open your terminal
