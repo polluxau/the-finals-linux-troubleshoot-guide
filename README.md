@@ -20,7 +20,7 @@ https://www.phoronix.com/news/Linux-6.11-rc7-AMDGPU-Fix
 
 **INTEL**
 
-Intel, use the latest kernel and MESA aswell,Intel uses the i915 driver right now in the kernel and ANV in mesa, Intel is currently reworking their driver in the kernel called the Intel-XE driver and are improving ANV in mesa for gaming, i dont own a intel gpu so its hard for me to test if the finals works properly or not
+Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right now in the kernel and ANV in mesa, Intel is currently reworking their driver in the kernel called the Intel-XE driver and are improving ANV in mesa for gaming, i dont own a intel gpu so its hard for me to test if the finals works properly or not
 
 **PROTON**
 
@@ -28,7 +28,7 @@ Please use Proton experimental, experimental has all of the latest patches from 
 
 **YOU CAN ALSO USE PROTON-GE BUT IT ISN'T REQUIRED**
 
-proton-ge uses experimental(bleeding edge) and gets updated every couple of weeks with its own patches included like video codecs and specific fixes that valve can not do because of licenses or other issues 
+Proton-ge uses experimental(bleeding edge) and gets updated every couple of weeks with its own patches included like video codecs and specific fixes that valve can not do because of licenses or other issues 
 
 https://github.com/GloriousEggroll/proton-ge-custom
 
