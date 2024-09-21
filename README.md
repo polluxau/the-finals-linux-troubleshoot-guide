@@ -19,7 +19,7 @@ On AMD you have the AMDGPU driver in the Linux kernel and RADV in MESA which is 
 
 if you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, Fedora silverblue, Nixos, Fedora workstation or even Gentoo make sure you are using 6.10.9 or above
 
-The reason for kernel 6.10.9 is because of a recent regression that caused THE FINALS to have a decent amount of frame spikes under a amd gpu
+The reason for kernel 6.10.9 is because of a recent regression that caused lots of games to have a decent amount of frame spikes under a amd gpu including THE FINALS
 https://www.phoronix.com/news/Linux-6.11-rc7-AMDGPU-Fix
 
 -----------------------------------
