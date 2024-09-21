@@ -40,6 +40,31 @@ https://flathub.org/apps/net.davidotek.pupgui2
 
 If the game for some reason stops working please clear your wine prefix, your wine prefix is the fake windows directory that proton uses, so when you clear it, the components it uses will be removed requiring the game to redo the setup instructions/recreate that wine prefix so its a clean prefix to use
 
+**IF YOUR GAME CRASHES AFTER A HOUR OR SO**
+
+This usually indicates that your vm.max map_count is too low on the linux distro you are running, what is vm max map count?
+
+vm.max_map_count is a kernel parameter in Linux that limits the maximum number of memory mappings (also known as virtual memory areas or VMA) a process can have. This parameter is used to prevent excessive memory fragmentation and potential denial-of-service attacks.
+What is a memory mapping?
+A memory mapping is a region of virtual memory that is mapped to a physical memory page or a file
+
+Distros like linux mint 21, ubuntu 22.04, debian 12 will have to low of a value so the game will crash as it tries to create more virtual memory in the game
+
+**HOW TO INCREASE IT**
+To increase your vm.max_map_count do this 
+
+Open your terminal
+
+sudo nano /etc/sysctl.d/vm.max_map_count.conf
+
+Add this value to this config 
+
+vm.max_map_count=2147483642
+
+Ctrl-x, y, enter to save the file
+
+Reboot your system
+
 **THIS MAY RESET YOUR IN-GAME SETTINGS SO PLEASE REMEMBER WHAT YOU HAD BEFOREHAND!**
 
 **HOW TO CLEAR YOUR WINE PREFIX**
