@@ -30,7 +30,8 @@ Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right n
 
 -----------------------------------
 
-![823e834b-5a40-4204-bf98-887ce5ab8c0d](https://github.com/user-attachments/assets/6d81401c-a979-439e-a5bf-430b13875f9b)
+
+![1922724614id24077gol](https://github.com/user-attachments/assets/ce86fddd-3424-4333-91c4-d0cfe301803a)
 
 
 
