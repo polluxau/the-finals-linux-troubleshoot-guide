@@ -30,7 +30,8 @@ Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right n
 
 -----------------------------------
 
-![Screenshot_20240921-134022_Firefox](https://github.com/user-attachments/assets/f74bed9c-b5a6-4a23-bf3a-0e39920b19cd)
+![Screenshot_20240921-134022_Firefox-transformed](https://github.com/user-attachments/assets/55c8f396-0479-4c91-ae27-55c621aff4e4)
+
 
 **PROTON**
 
