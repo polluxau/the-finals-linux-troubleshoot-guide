@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/3487ffc1-5f38-4880-9254-3b79c67f2dd9) ![tux small](https://github.com/user-attachments/assets/5cec50e6-407c-4e91-b828-ba6c30355dcd)
-
-
+![the-finals-730379449](https://github.com/user-attachments/assets/eac78f2b-95a7-4650-a1a1-a48cb199b57d)
+![tux small](https://github.com/user-attachments/assets/5cec50e6-407c-4e91-b828-ba6c30355dcd)
 
 
 **NVIDIA**
