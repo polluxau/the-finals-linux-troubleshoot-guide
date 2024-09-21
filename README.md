@@ -80,7 +80,7 @@ Also another fix might be that you dont have zram or "swap" we like to call it, 
 
 Please go to the proton github THE FINALS issue page and report your problem
 
-You can also do `PROTON_LOG=1 %command%` as your launch command for the finals to get a log of the game which you can then upload to your github comment explaining the problem you are having
+You can also do `PROTON_LOG=1 %command%` as your launch command for the finals to get a log of the game, this log will be in your home directory, which you can then upload to your github comment explaining the problem you are having
 
 https://github.com/ValveSoftware/Proton/issues/7317
 
