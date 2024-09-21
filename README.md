@@ -7,7 +7,7 @@
 
 If your on Nvidia please use the Nvidia driver that is provided by your Distro
 
-If your on a Wayland Desktop like KDE Plasma or gnome, please use the latest nvidia driver like 555 or 560 or newer
+If your on a Wayland Desktop like KDE Plasma, gnome, cosmic, lxqt, budgie please use the latest nvidia driver like 555 or 560 or newer
 
 **AMD**
 
