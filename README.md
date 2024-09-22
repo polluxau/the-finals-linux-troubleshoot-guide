@@ -98,6 +98,8 @@ If the game for some reason stops working please clear your wine prefix, your wi
 
 Each game has its own prefix that steam will create under /steamlibrary/compatdata
 
+if your game is on the main drive then enable hidden files in your file manager and you'll find .steam 
+
 Go to your steamlibrary and right click on the finals, properties, updates, and find the APPID for THE FINALS, yours will be different to mine
 
 ![image](https://github.com/user-attachments/assets/8456b6a2-4005-451a-811e-426db77b9694)
