@@ -141,7 +141,7 @@ If you look in The Finals/EasyAntiCheat/Localization and open a .cfg like ko_kr.
 
 If you are getting a memory leak in the finals after a while like 3 hours or so, please try flatpak steam, this has seemed to have solved the issue for me but this leak may still be present if your on a arch based system it seems
 
-Also another fix might be that you dont have zram or "swap" we like to call it, enabled on your linux distro
+Also another fix might be that you dont have zram or "swap" we like to call it, enabled on your linux distro, please look up how to do this for your linux distro that you are using 
 
 **IF YOU HAVE FURTHER PROBLEMS **
 
