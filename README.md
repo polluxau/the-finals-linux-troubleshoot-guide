@@ -45,11 +45,6 @@ Proton-ge uses experimental(bleeding edge) and gets updated every couple of week
 
 https://github.com/GloriousEggroll/proton-ge-custom
 
-## A Wine/Proton installer, Protonplus
-https://flathub.org/apps/com.vysp3r.ProtonPlus
-
------------------------------------
-
 **YOU CAN USE A APPLICATION LIKE PROTONPLUS OR PROTON-UP-QT TO GET PROTON-GE INSTALLED ON STEAM**
 
 https://flathub.org/apps/com.vysp3r.ProtonPlus
