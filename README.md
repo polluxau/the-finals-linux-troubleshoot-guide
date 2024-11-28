@@ -91,7 +91,7 @@ Reboot your system
 
 If the game for some reason stops working please clear your wine prefix, your wine prefix is the fake windows directory that proton uses, so when you clear it, the components it uses will be removed requiring the game to redo the setup instructions/recreate that wine prefix so it's clean to use
 
-# THIS MAY RESET YOUR IN-GAME SETTINGS SO PLEASE REMEMBER WHAT YOU HAD BEFOREHAND!
+# THIS MAY RESET YOUR IN-GAME SETTINGS SO PLEASE REMEMBER WHAT YOU HAD BEFOREHAND⚠️⚠️
 
 ## HOW TO CLEAR YOUR WINE PREFIX
 
@@ -142,7 +142,7 @@ https://github.com/ValveSoftware/Proton/issues/7317
 
 ## IF THE GAME BREAKS FROM A UPDATE PLEASE TRY CLEARING THE PREFIX, IF THAT DOESNT WORK TRY BLEEDING EDGE BUILD OF PROTON
 
-# WARNING THIS CAN OVERTIME DESTROY YOUR WINE PREFIX SO PLEASE USE WITH CAUTION
+# WARNING THIS CAN OVERTIME DESTROY YOUR WINE PREFIX SO PLEASE USE WITH CAUTION ⚠️⚠️
 
 Find experimental in your steam library
 
