@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fd82225b-33fb-4dda-83a5-9f062cd51ae2)
+if![image](https://github.com/user-attachments/assets/fd82225b-33fb-4dda-83a5-9f062cd51ae2)
 ![tux small](https://github.com/user-attachments/assets/5cec50e6-407c-4e91-b828-ba6c30355dcd)
 
 
@@ -55,13 +55,17 @@ https://flathub.org/apps/net.davidotek.pupgui2
 
 **IF YOUR GAME CRASHES AFTER A HOUR OR SO**
 
-This usually indicates that your vm.max map_count is too low on the linux distro you are running, what is vm max map count?
+This usually indicates that your vm.max map_count is too low on the linux distro you are running
+
+## What is vm max map count?
 
 vm.max_map_count is a kernel parameter in Linux that limits the maximum number of memory mappings (also known as virtual memory areas or VMA) a process can have. This parameter is used to prevent excessive memory fragmentation and potential denial-of-service attacks.
-What is a memory mapping?
+
+## What is a memory mapping?
+
 A memory mapping is a region of virtual memory that is mapped to a physical memory page or a file
 
-Distros like linux mint 21, ubuntu 22.04, debian 12 will have too low of a value, so the game will crash as it tries to create more virtual memory in the game
+Distros like linux mint 21, ubuntu 22.04, debian 12 will have too low of a value, so the game will crash as it tries to create more virtual memory in the game which it will run out of space in that virtual memory so you need to increase.
 
 ------------------------------------
 
