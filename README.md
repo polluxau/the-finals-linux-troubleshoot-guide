@@ -133,7 +133,7 @@ Please go to the proton github THE FINALS issue page and report your problem
 
 You can also do `PROTON_LOG=1 %command%` as your launch command for the finals to get a log of the game, this log will be in your home directory, which you can then upload to your github comment explaining the problem you are having
 
-https://github.com/ValveSoftware/Proton/issues/7317
+[THE FINALS PROTON ISSUE](https://github.com/ValveSoftware/Proton/issues/7317)
 
 ---------------------------------------
 
