@@ -17,7 +17,7 @@ If your on a Wayland Desktop or tiling manager like KDE Plasma, Gnome, Cosmic, L
 
 On AMD you have the AMDGPU driver in the Linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
 
-if you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, Fedora silverblue, Nixos, Fedora workstation or even Gentoo make sure you are using the newest kernel that is available for your distro
+If you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, Fedora silverblue, Nixos, Fedora workstation or even Gentoo make sure you are using the newest kernel that is available for your distro
 
 -----------------------------------
 ![image](https://github.com/user-attachments/assets/7401c332-fd00-416b-9428-b11cf9b0738c)
@@ -39,11 +39,14 @@ Please use Proton experimental, experimental has all of the latest patches from 
 --------------------------------------
 
 
-**YOU CAN ALSO USE PROTON-GE BUT IT ISN'T REQUIRED**
+**YOU CAN ALSO USE GE-PROTON BUT IT ISN'T REQUIRED**
 
-Proton-ge uses experimental(bleeding edge) and gets updated every couple of weeks with its own patches included like video codecs and specific fixes that valve can not do because of licenses or other issues 
+Proton-ge uses experimental(bleeding edge) and gets updated every couple of weeks with its own patches included like video codecs and specific fixes that valve can not do because of licenses or other issues, it is not recommended for the finals but it's your choice if you want to use it or not
 
 https://github.com/GloriousEggroll/proton-ge-custom
+
+##A wine/proton installer protonplus
+https://flathub.org/apps/com.vysp3r.ProtonPlus
 
 -----------------------------------
 
