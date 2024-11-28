@@ -45,7 +45,7 @@ Please use Proton experimental, experimental has all of the latest patches from 
 
 ## YOU CAN USE A APPLICATION LIKE PROTONPLUS OR PROTON-UP-QT TO GET GE-PROTON INSTALLED ON STEAM
 
-https://flathub.org/apps/com.vysp3r.ProtonPlus
+[ProtonPlus](https://flathub.org/apps/com.vysp3r.ProtonPlus)
 
 https://flathub.org/apps/net.davidotek.pupgui2
 
