@@ -47,7 +47,7 @@ Please use Proton experimental, experimental has all of the latest patches from 
 
 [ProtonPlus](https://flathub.org/apps/com.vysp3r.ProtonPlus)
 
-https://flathub.org/apps/net.davidotek.pupgui2
+[Proton-Up-Qt](https://flathub.org/apps/net.davidotek.pupgui2)
 
 --------------------------------------
 
