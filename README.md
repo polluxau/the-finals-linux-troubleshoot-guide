@@ -121,19 +121,6 @@ If you get any EAC problems please try clearing the prefix first then if you get
 
 ![image](https://github.com/user-attachments/assets/fe7447fb-1840-4889-a2f2-34ededeaebc0)
 
-
-## EAC LANGUAGE ISSUE
-
-For some reason EAC wont launch if your running a language like ar_sa(Arabic), ja_ja(Japanese), ko_kr(Korean), th_th(Thai), tr_tr(Turkish), zh_cn(Simplified Chinese), zh_tw(Traditional Chinese) so you have to manually add these fonts into the wine prefix of THE FINALS so EAC can launch properly
-
-`<SteamLibrary-folder>/steamapps/compatdata/2073850/pfx/drive_c/windows/Fonts`
-
-If you look in The Finals/EasyAntiCheat/Localization and open a .cfg like ko_kr.cfg you will see the fonts its looking for like Malgunsl.ttf or Malgun.ttf, so just search these up online and download them, then place it in the fonts folder in the prefix so the language can work with EAC 
-
-![image](https://github.com/user-attachments/assets/0a9d23ef-eb8a-4960-b3d5-97e8ebbaa78e)
-
-
-
 ---------------------------------------
 
 ## IF YOU HAVE A MEMORY LEAK
