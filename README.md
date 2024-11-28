@@ -34,7 +34,7 @@ Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right n
 
 ## PROTON
 
-Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS, do NOT use bleeding edge
+Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS, do NOT use experimental (bleeding edge)
 
 --------------------------------------
 
