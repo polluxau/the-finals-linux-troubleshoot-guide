@@ -17,7 +17,7 @@ If your on a Wayland Desktop or tiling manager like KDE Plasma, Gnome, Cosmic, L
 
 On AMD you have the AMDGPU driver in the Linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
 
-If you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, Fedora silverblue, Nixos, Fedora workstation or even Gentoo make sure you are using the newest kernel that is available for your distro
+If you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, garuda, endeavour os, cachyos, pikaos, nobara, chimeraos, steamfork, Fedora silverblue, Nixos, or even Gentoo make sure you are using the newest kernel and mesa that is available for your distro
 
 -----------------------------------
 ![image](https://github.com/user-attachments/assets/7401c332-fd00-416b-9428-b11cf9b0738c)
