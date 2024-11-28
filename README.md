@@ -41,9 +41,7 @@ Please use Proton experimental, experimental has all of the latest patches from 
 
 ## YOU CAN ALSO USE GE-PROTON BUT IT ISN'T REQUIRED
 
-Proton-ge uses experimental(bleeding edge) and gets updated every couple of weeks with its own patches included like video codecs and specific fixes that valve can not do because of licenses or other issues, it is not recommended for the finals but it's your choice if you want to use it or not
-
-[Ge-proton](https://github.com/GloriousEggroll/proton-ge-custom)
+[Proton-ge](https://github.com/GloriousEggroll/proton-ge-custom) uses experimental(bleeding edge) and gets updated every couple of weeks with its own patches included like video codecs and specific fixes that valve can not do because of licenses or other issues, it is not recommended for the finals but it's your choice if you want to use it or not
 
 ## YOU CAN USE A APPLICATION LIKE PROTONPLUS OR PROTON-UP-QT TO GET GE-PROTON INSTALLED ON STEAM
 
