@@ -45,7 +45,7 @@ Proton-ge uses experimental(bleeding edge) and gets updated every couple of week
 
 https://github.com/GloriousEggroll/proton-ge-custom
 
-**YOU CAN USE A APPLICATION LIKE PROTONPLUS OR PROTON-UP-QT TO GET PROTON-GE INSTALLED ON STEAM**
+**YOU CAN USE A APPLICATION LIKE PROTONPLUS OR PROTON-UP-QT TO GET GE-PROTON INSTALLED ON STEAM**
 
 https://flathub.org/apps/com.vysp3r.ProtonPlus
 
