@@ -9,7 +9,7 @@
 
 If your on Nvidia please use the Nvidia driver that is provided by your Distro
 
-If your on a Wayland Desktop like KDE Plasma, Gnome, Cosmic, Lxqt, Budgie please use the latest nvidia driver like 555 or 560 or newer
+If your on a Wayland Desktop like KDE Plasma, Gnome, Cosmic, Lxqt, Budgie, elementary os please use the latest nvidia driver like 555 or 560 or newer
 
 --------------------------------------
 ![amd-logo-white-png-5773-1024x245-601490339](https://github.com/user-attachments/assets/57cea371-7a50-4b67-9d80-5b9457826bc9)
