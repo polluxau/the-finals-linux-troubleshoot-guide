@@ -17,10 +17,7 @@ If your on a Wayland Desktop like KDE Plasma, Gnome, Cosmic, Lxqt, Budgie please
 
 On AMD you have the AMDGPU driver in the Linux kernel and RADV in MESA which is the userspace driver, please use atleast kernel 6.8 or higher and mesa 23.1 or higher
 
-if you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, Fedora silverblue, Nixos, Fedora workstation or even Gentoo make sure you are using 6.10.9 or above
-
-The reason for kernel 6.10.9 is because of a recent regression that caused lots of games to have a decent amount of frame spikes under a amd gpu including THE FINALS
-https://www.phoronix.com/news/Linux-6.11-rc7-AMDGPU-Fix
+if you are using a newer Distro like Fedora, Arch, Opensuse tumbleweed, Bazzite, Fedora kinote, Fedora silverblue, Nixos, Fedora workstation or even Gentoo make sure you are using the newest kernel that is available for your distro
 
 -----------------------------------
 ![image](https://github.com/user-attachments/assets/7401c332-fd00-416b-9428-b11cf9b0738c)
