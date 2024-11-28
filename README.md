@@ -45,7 +45,7 @@ Proton-ge uses experimental(bleeding edge) and gets updated every couple of week
 
 https://github.com/GloriousEggroll/proton-ge-custom
 
-##A wine/proton installer protonplus
+## A wine/proton installer protonplus
 https://flathub.org/apps/com.vysp3r.ProtonPlus
 
 -----------------------------------
