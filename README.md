@@ -36,6 +36,9 @@ Intel, use the latest kernel and MESA aswell, Intel uses the i915 driver right n
 
 Please use Proton experimental, experimental has all of the latest patches from valve for THE FINALS, do NOT use experimental (bleeding edge)
 
+## YOU ALSO NEED PROTON EAC RUNTIME TO BE INSTALLED IN YOUR STEAM 
+LIBRARY!
+
 --------------------------------------
 
 
